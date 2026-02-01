@@ -1,0 +1,3 @@
+Book,48 Laws of Power,Penguin,2012,Brian Greene
+Magazine,New York Times,New York Tmes,2025,23443
+Book,48 Laws of power,Penguin,2012,Brian Greene
